@@ -1,0 +1,22 @@
+{
+  "name": "smart.cv.back-end",
+  "version": "1.0.0",
+  "description": "Back end of CV generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toysan2/smart.cv.back-end.git"
+  },
+  "author": "Toy Santana António",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toysan2/smart.cv.back-end/issues"
+  },
+  "homepage": "https://github.com/Toysan2/smart.cv.back-end#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
